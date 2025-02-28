@@ -1,9 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Mihir Raj</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-code-2005&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-code-2005" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-code-2005" alt="mihir-code-2005" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mihirsays_05" target="blank"><img src="https://img.shields.io/twitter/follow/mihirsays_05?logo=twitter&style=for-the-badge" alt="mihirsays_05" /></a> </p>
 
@@ -14,8 +14,6 @@
 - 🤝 I’m looking for help with **web development, Data Science, AI/ML**
 
 - 📫 How to reach me **se.mihirraj@gmail.com**
-
-- ⚡ Fun fact **looking forward to learning and contributing in something new**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
